@@ -1,7 +1,7 @@
 import getopt, sys
 import yt_dlp
 
-replace_proxy_url = ['piped.kavin.rocks']
+replace_proxy_url = ['piped.kavin.rocks', 'inv.nadeko.net']
 
 
 def main(file_name):
